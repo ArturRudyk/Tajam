@@ -3,3 +3,14 @@
     color: #ffffff;
     text-align: center;
 }
+
+.comment__images {
+    
+}
+
+.comment__image {
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    margin: 0px 10px;
+}
